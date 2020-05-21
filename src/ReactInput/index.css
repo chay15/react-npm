@@ -1,0 +1,27 @@
+.rt-input-search-btn {
+    background-color: rgb(235, 226, 226);
+    color: #000;
+    height: 40px;
+    padding: 6px 15px;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+
+.rt-input {
+    width: 500px;
+    margin: 0;
+    list-style: none;
+    font-size: 16p;
+    border: 1px solid rgb(243, 240, 240);
+    height: 40px;
+}
+
+
+.rt-input:hover {
+    border-color: rgb(138, 131, 131);
+}
+
+.rt-input:focus {
+    border-color: rgb(138, 21, 21);
+}
